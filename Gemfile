@@ -2,7 +2,9 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.0'
+gem 'rails', '4.2.2'
+#bootstrap for rails
+gem 'bootstrap-sass', '3.2.0.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '5.0.1'
 # Use Uglifier as compressor for JavaScript assets
